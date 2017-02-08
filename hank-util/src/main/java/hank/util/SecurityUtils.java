@@ -4,7 +4,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * 对字符串执行MD5算法加密
+ * 字符串执行MD5算法加密工具类
  * @author hankChan
  * @Email hankchan101@gmail.com
  * @time 22:09:33 - 8 Feb 2017
